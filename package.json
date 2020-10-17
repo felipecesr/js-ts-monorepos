@@ -7,6 +7,10 @@
   "workspaces": [
     "packages/*"
   ],
+  "volta": {
+    "node": "12.19.0",
+    "yarn": "1.22.10"
+  },
   "scripts": {
     "build": "scripty",
     "clean": "scripty",
