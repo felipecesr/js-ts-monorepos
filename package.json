@@ -12,6 +12,8 @@
     "yarn": "1.22.10"
   },
   "scripts": {
+    "start": "scripty",
+    "dev": "scripty",
     "build": "scripty",
     "clean": "scripty",
     "lint": "scripty",
