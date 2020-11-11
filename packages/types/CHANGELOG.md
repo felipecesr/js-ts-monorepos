@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/felipecesr/js-ts-monorepos/compare/@shlack/types@0.1.0...@shlack/types@0.2.0) (2020-11-11)
+
+
+### Features
+
+* test ([e21bb3c](https://github.com/felipecesr/js-ts-monorepos/commit/e21bb3c72e478ad2809ed56474cdabe24f688112))
+
+
+
+
+
 # 0.1.0 (2020-11-10)
 
 
